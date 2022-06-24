@@ -1,0 +1,21 @@
+
+.footer-main { text-align: center; font-size:14px; color:grey; padding-top: 20px; padding-bottom: 20px; background-color: #ececec; }
+.carousel-item img { width: 100%; }
+.main-content img { width: 100%; max-height: 200px; }
+.main-content .main-content-cont { border:1px solid lightgrey; margin-top: 10px; margin-bottom: 10px; padding: 20px; }
+.main-content .main-content-cont h5 a { text-decoration: none;  color: black;}
+.main-content .main-content-cont h5 a:hover { color: black;}
+.main-content .main-info { font-size: 12px; color:lightgrey; }
+.main-content .main-info a { font-size: 12px; color:lightgrey; text-decoration: none; transition: .5s; }
+.main-content .main-info a:hover { color:black; }
+.main-content-p { font-size:14px; color: grey; margin-top: 10px; }
+
+.page-head { background-color: #ececec; text-align: center; height: 200px; display:table; width: 100%; margin-bottom: 20px;}
+.page-head h1 { vertical-align: middle; display: table-cell; }
+.page-head h1 a { text-decoration: none; color: black; }
+.page-content { border:1px solid lightgrey; padding: 20px; margin-bottom: 20px;}
+.page-content img { width: 100%; }
+.page-content .row { margin-bottom: 20px; }
+.page-content .main-info { font-size: 12px; color:lightgrey; }
+.page-content .main-info a { font-size: 12px; color:lightgrey; text-decoration: none; transition: .5s; }
+.page-content .main-info a:hover { color:black; }
